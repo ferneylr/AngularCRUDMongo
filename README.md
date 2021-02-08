@@ -1,6 +1,6 @@
 # Crudmongo
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.5.
+Este proyecto esta desarrollado con Angular version 10.0.5 , para ejecutar localmente se debe descargar la carpeta node_modules en la terminan CLI de Angular con el comando npm i y despues ng serve -o
 
 ## Development server
 
